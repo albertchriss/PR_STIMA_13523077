@@ -60,3 +60,7 @@ Dalam contoh ini:
 * Ada 4 kota.
 * Ada 6 definisi jalan.
 * Jalan dari kota 1 ke kota 2 memiliki biaya 10, dst.
+
+**Contoh Output:**
+
+![Contoh Gambar](test/example.png)
